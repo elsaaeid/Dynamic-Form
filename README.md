@@ -1,6 +1,6 @@
 # Overview
 #### The Dynamic Form Validation Project is a web-based application built using HTML, CSS, and JavaScript. This project demonstrates how to dynamically create form fields and validate user inputs in real-time. By combining dynamic form creation with robust validation techniques, the project ensures that user-submitted data is accurate, complete, and in the expected format.
-### This project is ideal for learning how to handle DOM manipulation, event handling, and form validation using vanilla JavaScript.
+#### This project is ideal for learning how to handle DOM manipulation, event handling, and form validation using vanilla JavaScript.
 
 <img src="./assets/images/dynamic-form.gif" alt="dynamic-form" />
 
@@ -27,16 +27,16 @@
 - JavaScript: For adding dynamic functionality and validating user inputs.
 
 # How It Works
-## Dynamic Form Creation:
+#### Dynamic Form Creation:
 - Users can click a button to dynamically add new input fields to the form.
 - Each field includes a "Remove" button to delete it if needed.
-## Validation Rules:
+#### Validation Rules:
 - Fields are validated based on their type (e.g., text, email, number).
 - JavaScript checks for required fields, correct formats (e.g., email format), and other constraints.
-## Custom Error Messages:
+#### Custom Error Messages:
 - If a field is invalid, a custom error message is displayed below the field.
 - The error messages disappear once the input is corrected.
-## Form Submission:
+#### Form Submission:
 - The form can only be submitted if all fields pass validation.
 - Invalid fields are highlighted to guide the user.
 
